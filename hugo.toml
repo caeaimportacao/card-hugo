@@ -6,7 +6,7 @@
 
 baseURL = "http://card.caea.pt"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 theme = "hermit-v2"
 enableRobotsTXT = true ## set to true to enable inbuilt robots.txt
 
