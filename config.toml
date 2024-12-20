@@ -1,4 +1,4 @@
-baseURL = 'http://card.caea.pt/'
+baseURL = 'https://card.caea.pt/'
 languageCode = 'en-us'
 title = 'CAEA Importaão Lda.'
 theme = "coming-soon"
