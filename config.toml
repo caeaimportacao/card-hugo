@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://card.caea.pt/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'CAEA Importaão Lda.'
 theme = "coming-soon"
